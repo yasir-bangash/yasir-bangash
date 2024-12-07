@@ -23,7 +23,7 @@ I'm a skilled Flutter developer with expertise in building modern, scalable, and
 
 ## Skills & Tools
 
-- **Languages:** Dart, JavaScript
+- **Languages:** Dart, 
 - **Frameworks & Libraries:** Flutter, Firebase, Supabase
 - **Tools:** GitHub, Visual Studio Code, Postman
 - **Version Control:** Git & GitHub
