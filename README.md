@@ -16,7 +16,8 @@ I'm a skilled Flutter developer with expertise in building modern, scalable, and
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yasir-bangash&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasir-bangash&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&timestamp=1699999999)](https://git.io/streak-stats)
+
 
 ---
 
